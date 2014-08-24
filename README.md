@@ -22,6 +22,8 @@ installation by following these steps.
 * Create a Gmsh plugin project using the mkplugin script: `mkplugin -uns -cpp GMesh`
 * Replace the project's generated files with the files from this repository.
 
+This plugin was created using version 1.0 R7 of the Pointwise CAE Plugin SDK.
+
 
 ## Disclaimer
 Plugins are freely provided. They are not supported products of
